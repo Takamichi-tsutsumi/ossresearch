@@ -2,7 +2,9 @@
 [1]Bonaccorsi, A. Rossi C.(2006), Comparing motivations of individual programmers and firms to take part in the open source movement: From community to business, Knowledge, Technology & Policy, 18(4), 40-64
 [2]Stewart, K.J., et al.(2006), Impacts of License Choice and Organizational Sponsorship on User Interest and Development Activity in Open Source Software, Information Systems Research, 17(2), 126-144
 [3]Scacchi, W. (2004), Free and open source development practices in the game community, IEEE Software, 21(1), 59-66
-[4]
+[4]Hann Hann, I. et al(2004) Why developers participate in open source software projects: An empirical investigation, ICIS 2004 Proceedings
+[5]Lerner, J. Tirole, J.(2002), Some simple economics of open source, J Ind Econ, 52, 197–234
+
 
 
 <!-- 2.1. OSS Participation motivation  -->
