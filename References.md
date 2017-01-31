@@ -1,11 +1,14 @@
 # References
-[1]Bonaccorsi, A. Rossi C.(2006), Comparing motivations of individual programmers and firms to take part in the open source movement: From community to business, Knowledge, Technology & Policy, 18(4), 40-64
-[2]Stewart, K.J., et al.(2006), Impacts of License Choice and Organizational Sponsorship on User Interest and Development Activity in Open Source Software, Information Systems Research, 17(2), 126-144
-[3]Scacchi, W. (2004), Free and open source development practices in the game community, IEEE Software, 21(1), 59-66
-[4]Hann, I. et al(2004) Why developers participate in open source software projects: An empirical investigation, ICIS 2004 Proceedings
-[5]Lerner, J. Tirole, J.(2002), Some simple economics of open source, J Ind Econ, 52, 197–234
+[1] Bonaccorsi, A. Rossi C.(2006), Comparing motivations of individual programmers and firms to take part in the open source movement: From community to business, Knowledge, Technology & Policy, 18(4), 40-64
 
-<!-- 2.1. OSS Participation motivation  -->
+[2] Stewart, K.J., et al.(2006), Impacts of License Choice and Organizational Sponsorship on User Interest and Development Activity in Open Source Software, Information Systems Research, 17(2), 126-144
+
+[3] Scacchi, W. (2004), Free and open source development practices in the game community, IEEE Software, 21(1), 59-66
+
+[4] Hann, I. et al(2004) Why developers participate in open source software projects: An empirical investigation, ICIS 2004 Proceedings
+
+[5] Lerner, J. Tirole, J.(2002), Some simple economics of open source, J Ind Econ, 52, 197–234
+
 [6] Nitin A, Urvashi R.(2006), Defining success for software projects: An exploratory revelation, International Journal of Project Management 24, 358–370
 
 [7] Kevin C, et al. (2006), Information Systems Success in Free and Open Source Software Development: Theory and Measures, Software Process Improvement and Practice 11, 123-148
@@ -25,8 +28,6 @@ and What We Do Not Know, ACM Computing Surveys, Vol. 44, No. 2, Article 7
 
 [14] West and O’Mahony 2005
 
-
-<!-- 2.2. OSS Project success -->
 [15] Subramaniam, C. (2009), Determinants of open source software project success: A longitudinal study, Decision Support Systems, (46) 576 - 585
 
 [16] Luis V. Casalo, et al.(2009)
@@ -41,7 +42,13 @@ and What We Do Not Know, ACM Computing Surveys, Vol. 44, No. 2, Article 7
 
 [21] Vishal Midhaa and Prashant Palviab. (2011), Factors affecting the success of Open Source Software, Journal of Systems and Software. 85, 4(895–905)
 
-<!-- 2.2.2. OSS project as a Network -->
-[] Madey, G.(2002), The Open Source Software Development Phenomenon: An analysis based on social network theory, 8th American Conference on Information Systems
+[22] Scacchi (2004), Free/open source software development practices in the computer game community, IEEE Softw. 21, 1, 56–66
 
-[] Signh, P.V., et al.(2011), Network Effects The Influence of Structural Social Capital on Open Source Project Success. MIS Quarterly
+[23] Michlmayr (2003)
+
+[24] Lancashire, D(2001)Code, culture and cash: the fading altruism of open source developmentFirst Monday
+6, 12
+
+[25] Madey, G.(2002), The Open Source Software Development Phenomenon: An analysis based on social network theory, 8th American Conference on Information Systems
+
+[26] Signh, P.V., et al.(2011), Network Effects The Influence of Structural Social Capital on Open Source Project Success. MIS Quarterly
