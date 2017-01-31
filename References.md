@@ -31,9 +31,15 @@ and What We Do Not Know, ACM Computing Surveys, Vol. 44, No. 2, Article 7
 
 [16] Luis V. Casalo, et al.(2009)
 
-[17] Rajdeep, G(2006), Location, Location, Location: How Network Embeddedness Affects Project Success in Open Source Systems, Management Science, 52(7), 1043-1056
+[17] Shobha et al. (2003) Survival of Open-Source Projects: A Population Ecology Perspective
 
-[] K.J. Stewart, A.P. Ammeter, L.M. Maruping. (2006), Impacts of License Choice and Organizational Sponsorship on User Interest and Development Activity in Open Source Software, Information Systems Research 17(2), 126-144
+[18] Rajdeep, G(2006), Location, Location, Location: How Network Embeddedness Affects Project Success in Open Source Systems, Management Science, 52(7), 1043-1056
+
+[19] K.J. Stewart, A.P. Ammeter, L.M. Maruping. (2006), Impacts of License Choice and Organizational Sponsorship on User Interest and Development Activity in Open Source Software, Information Systems Research 17(2), 126-144
+
+[20] Lerner, J. Tirole, J.(2005), The Scope of Open Source Licensing, The Journal of Law, Economics
+
+[21] Vishal Midhaa and Prashant Palviab. (2011), Factors affecting the success of Open Source Software, Journal of Systems and Software. 85, 4(895–905)
 
 <!-- 2.2.2. OSS project as a Network -->
 [] Madey, G.(2002), The Open Source Software Development Phenomenon: An analysis based on social network theory, 8th American Conference on Information Systems
