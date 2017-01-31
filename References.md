@@ -27,7 +27,11 @@ and What We Do Not Know, ACM Computing Surveys, Vol. 44, No. 2, Article 7
 
 
 <!-- 2.2. OSS Project success -->
-[] Subramaniam, C. (2009), Determinants of open source software project success: A longitudinal study, Decision Support Systems, (46) 576 - 585
+[15] Subramaniam, C. (2009), Determinants of open source software project success: A longitudinal study, Decision Support Systems, (46) 576 - 585
+
+[16] Luis V. Casalo, et al.(2009)
+
+[17] Rajdeep, G(2006), Location, Location, Location: How Network Embeddedness Affects Project Success in Open Source Systems, Management Science, 52(7), 1043-1056
 
 [] K.J. Stewart, A.P. Ammeter, L.M. Maruping. (2006), Impacts of License Choice and Organizational Sponsorship on User Interest and Development Activity in Open Source Software, Information Systems Research 17(2), 126-144
 
@@ -35,5 +39,3 @@ and What We Do Not Know, ACM Computing Surveys, Vol. 44, No. 2, Article 7
 [] Madey, G.(2002), The Open Source Software Development Phenomenon: An analysis based on social network theory, 8th American Conference on Information Systems
 
 [] Signh, P.V., et al.(2011), Network Effects The Influence of Structural Social Capital on Open Source Project Success. MIS Quarterly
-
-[] Rajdeep, G(2006), Location, Location, Location: How Network Embeddedness Affects Project Success in Open Source Systems, Management Science, 52(7), 1043-1056
